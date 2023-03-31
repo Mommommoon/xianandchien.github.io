@@ -1,0 +1,108 @@
+/* 设定了标籤列 */
+.navigation ul{
+   float:right;
+   margin-top:30px;
+   margin-right:20px;
+}
+.navigation ul li{
+   float:left;
+   margin-right:25px;
+   font-size:18px;
+}
+.navigation ul li a{
+   text-decoration: none;
+   color:black;
+}
+
+/* 设定了主视觉图*/
+.mainvisual{
+  margin: 0 auto; 
+}
+
+/* 设定了字体*/
+p{
+  font-size: 25px;
+  text-indent: 2em;
+  line-height: 45px;
+  padding: 0.5em;
+  margin-right:2em;
+}
+
+p2
+{
+ font-size: 20px;
+ text-align: center;
+ font-family: "DFKai-sb";
+ color: #A9A9A9;
+ margin: 0 auto;
+}
+
+p3{
+  font-family:"Cambria";
+  font-size: 25px;
+  line-height: 35px;
+  padding: 0em;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 50px;
+  line-height: 00px;
+  padding: 0.5em;
+  text-align:left;
+}
+
+h2{
+  font-size: 30px;
+  line-height: 0px;
+  padding: 0em;
+  text-indent: 1em;
+  color: #A9A9A9;
+  margin-bottom:1.5em;
+}
+
+h3{
+  font-family:"Arial Black";
+  font-size: 70px; 
+  padding: 10px;      
+  line-height: 0px;
+  margin-top:50px;
+  margin-bottom:40px;
+  text-align: left;
+}
+/* 设定了正文*/
+.font{   
+  margin-left: 3em;
+  margin-right: 2em;
+}
+
+/* 设定了插图*/
+.picture{
+  text-align-last:center;
+}
+
+/* 设定了插图註脚*/
+.description{
+  margin-top: 1em;
+  margin-left: 3em;
+  margin-right: 2em;
+  text-align-last: center;
+}
+
+/* 设定了页尾*/
+footer{
+	font-size:10px;
+	font-weight: 300;
+    line-height: 1em;
+	padding: 40px;
+}
+
+/* 着作权资讯 */
+.copyright {
+    border-top: solid 3px #000000;
+    text-align: center;
+	padding-top: 10px;
+}
+.pagetop{
+  text-align-last: center;  
+}
